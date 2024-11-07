@@ -64,13 +64,13 @@ const CONFIG = {
 			link: 'https://gmail.com/',
 		},
 		{
-			id: '4',
+			id: '3',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '6',
+			id: '4',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
